@@ -1,5 +1,3 @@
-Packt+ Assessment
-
 Task Description: 
 1> Admin should be able to add/edit/delete books
 2> Customers should be able to search and filter according to multiple attributes like title, author, publication date, isbn, genre
